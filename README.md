@@ -1,0 +1,2 @@
+# Voice_assistant
+In this project I create a basic voice assistant that can perform simple tasks based on voice commands.l Implement features like responding to "Hello" and providing predefined responses, telling the time or date, and searching the web for information based on user
